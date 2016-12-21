@@ -57,10 +57,10 @@ section.module.content {
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
+  margin-bottom: 20px;
 }
 
 .supporter-logo {
-  width: 150px;
   padding-right: 10%;
   padding-bottom: 5%;
 }
