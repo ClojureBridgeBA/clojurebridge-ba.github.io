@@ -6,7 +6,7 @@ permalink: /sponsor-us/
 
 # Sponsor Us
 
-ClojureBridge Berlin organizes free programming workshops for members of
+ClojureBridge Buenos Aires organizes free programming workshops for members of
 underrepresented groups. All organizers, coaches, and assistants volunteer a
 part of their free time. To cover costs we rely on the generous patronage of
 companies that support us in our cause.
@@ -62,58 +62,7 @@ does *not* issue invoices for donations.
 
 ### Get in touch today:
 
-- Mail: <clojurebridge.berlin@gmail.com>
-- Twitter: [ClojureBridgeDe](https://twitter.com/ClojureBridgeDe)
+- Mail: <clojurebridge@clojureba.com>
+- Twitter: [ClojureBridgeBA](https://twitter.com/ClojureBridgeBA)
 
 ## ♥
-
----
-
-<div class="row supporter-area">
-  <h2>Past ClojureBridge Supporters</h2>
-
-  <div class="col-md-12 supporter-logos">
-    <a href="http://www.babbel.com">
-      <img class="supporter-logo" src="/images/logos/babbel.jpg">
-    </a>
-    <a href="http://bitcrowd.net/">
-      <img class="supporter-logo" src="/images/logos/bitcrowd.png">
-    </a>
-    <a href="http://en.dawanda.com/">
-      <img class="supporter-logo" src="/images/logos/dawanda.jpg">
-    </a>
-    <a href="https://www.iamfy.co/">
-      <img class="supporter-logo" src="/images/logos/fy_logo_black_1024px-1.jpg">
-    </a>
-    <a href="https://github.com/">
-      <img class="supporter-logo" src="/images/logos/github.jpg">
-    </a>
-    <a href="https://www.innoq.com/en/">
-      <img class="supporter-logo" src="/images/logos/innoq.png">
-    </a>
-    <a href="https://lambdawerk.com">
-      <img class="supporter-logo" src="/images/logos/lambdawerk.png">
-    </a>
-    <a href="http://www.metosin.fi/">
-      <img class="supporter-logo" src="/images/logos/metosin.jpg">
-    </a>
-    <a href="http://www.purelyfunctional.tv/">
-      <img class="supporter-logo" src="/images/logos/purefunctional_tv.png">
-    </a>
-    <a href="http://www.redpineapplemedia.com/">
-      <img class="supporter-logo" src="/images/logos/red_pineapple_media.png">
-    </a>
-    <a href="https://soundcloud.com/">
-      <img class="supporter-logo" src="/images/logos/soundcloud.jpg">
-    </a>
-    <a href="http://www.ticketsolve.com/">
-      <img class="supporter-logo" src="/images/logos/ticketsolve.png">
-    </a>
-    <a href="https://www.wunderlist.com/">
-      <img class="supporter-logo" src="/images/logos/wunderlist.jpg">
-    </a>
-    <a href="http://www.zalando.de/">
-      <img class="supporter-logo" src="/images/logos/zalando.png">
-    </a>
-  </div>
-</div>
