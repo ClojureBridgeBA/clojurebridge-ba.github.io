@@ -66,8 +66,7 @@ section.module.content {
 }
 
 .supporter-logo {
-  padding-right: 10%;
-  padding-bottom: 5%;
+  padding: 5%;
 }
 
 .host-area {
@@ -230,8 +229,4 @@ section.module.parallax-4 {
     width: 40%;
   }
 
-  .supporter-logo {
-    width: 80%;
-    padding-left: 20%;
-  }
 }
