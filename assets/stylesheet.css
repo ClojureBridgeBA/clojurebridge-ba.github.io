@@ -52,12 +52,17 @@ section.module.content {
   padding-bottom: 5%;
 }
 
+.supporter-area h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
 .supporter-logos {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .supporter-logo {
